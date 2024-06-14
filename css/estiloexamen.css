@@ -1,0 +1,60 @@
+
+ #menu {
+    background-color: rgb(233, 132, 17);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  
+  #menu li {
+    text-align: center;
+  }
+  
+  
+  #menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+
+  .h2menu {
+    text-align: center;
+    color: aliceblue;
+  }
+
+
+ 
+.seccion-aventura, .seccion-surf {
+    margin-bottom: 30px;
+  }
+  
+ 
+  .imagen-aventura, .imagen-surf {
+    width: 500px;
+    height: 400px; 
+    background-color: #ffffff; 
+    margin-top: 10px;
+  }
+  
+  
+  h2 {
+    color: #333;
+    font-size: 24px;
+  }
+  
+  p {
+    color: #666;
+    font-size: 16px;
+  }
+  
+  
+ 
+  body {
+    background-color: rgb(165, 186, 201);
+  }
